@@ -1,0 +1,6 @@
+{
+  "name": "ZYRATHON-X AI",
+  "description": "Futuristic premium AI Health & Fitness SaaS ecosystem featuring AI Fitness Coach, Nutritionist, and smart analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
